@@ -20,6 +20,7 @@
 - 👩‍💻 I'm a web developer.
 - 🔭 I’m on a full stack development bootcamp (Labenu)!
 - 🌱 I’m currently learning backend development (typescript, mySQL, aws).
+- 💻 To check it out the work I've been doing, you can <a href="https://maria-constance.vercel.app/">go to my website</a>.
 - 📫 Fell free to email me at maria-constance@hotmail.com.
 
 
